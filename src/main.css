@@ -3,3 +3,8 @@ section,
 html {
   background: #dad2d8;
 }
+
+.github-link {
+  text-decoration: none;
+  color: black;
+}
